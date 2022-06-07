@@ -3,6 +3,7 @@ y = ord(x)
 z = print(y)
 test = 13
 
+# the reason for the wrong answer was - EVEN for the value error - syntax || semantic error I have to write
 #your_string = input('Enter a number >')
 #print(your_string)
 #your_int = int(your_string)
