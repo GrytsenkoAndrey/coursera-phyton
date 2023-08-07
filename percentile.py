@@ -23,3 +23,7 @@ sort_b[4]
 (sort_b[3] + sort_b[4])/2
 
 
+def mf(a, b):
+    return a + b
+
+print(mf(3, 7))
